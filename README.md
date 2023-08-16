@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 -BLOG
 
-[Blog](https://blog.naver.com/wpqlks7)
+[Naver Blog](https://blog.naver.com/wpqlks7)
