@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wpqlks7)](https://solved.ac/wpqlks7)
+
+-BLOG
+
+[Blog](https://blog.naver.com/wpqlks7)
