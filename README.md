@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -GitHub stats
 
-[![jjh030325's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjh030325&theme=dark)](https://github.com/jjh030325/github-readme-stats)
+[![jjh030325's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjh030325&count-private=true&theme=dark)](https://github.com/jjh030325/github-readme-stats)
 
 -Top Langs
 
