@@ -2,9 +2,13 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World)
 
-  <h1>introduce</h1>
+  <h1>Introduce</h1>
   
   Hello, my name is jjh030325. I live in Korea. I am a 2nd year student at Keimyung University, Department of Computer Engineering.
+
+  <h1>Stack</h1>
+
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   
   <h1>GitHub Stats And Top Langs</h1>
   
