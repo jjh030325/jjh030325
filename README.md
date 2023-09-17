@@ -1,4 +1,7 @@
 <div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=hello! I'm jjh030325)
+  
   -GitHub stats
   
   [![jjh030325's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjh030325&count-private=true&theme=dark)](https://github.com/jjh030325/github-readme-stats)
