@@ -4,7 +4,7 @@
 
   <h1>Introduce</h1>
   
-  <h2>Hello, my name is jjh030325. I live in Korea. I am a 2nd year student at Keimyung University, Department of Computer Engineering.</h2>
+  <h3>Hello, my name is jjh030325. I live in Korea. I am a 2nd year student at Keimyung University, Department of Computer Engineering.</h3>
 
   <h1>Stack</h1>
 
