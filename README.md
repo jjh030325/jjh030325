@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=hello! I'm jjh030325)
 <div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=slice)
   
   -GitHub stats
   
