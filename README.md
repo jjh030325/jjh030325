@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&text=Hello)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello)
   
   -GitHub stats
   
